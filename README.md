@@ -1,4 +1,4 @@
-# René · StrengthLab en casa
+# Rene Rojas · StrengthLab en casa
 
 Programa de primer mes (semanas 1–4): Push, Pull, Pierna, Brazos + superior y Pierna posterior. Equipo: mancuernas y barra de dominadas, sin banco.
 
