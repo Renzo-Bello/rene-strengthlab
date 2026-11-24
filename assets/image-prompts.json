@@ -1,0 +1,77 @@
+{
+  "tool": "OpenAI built-in image_gen",
+  "images": [
+    {
+      "file": "ai-floor.jpg",
+      "prompt": "Photorealistic dumbbell floor chest press, full body on mat, knees bent, arms extended, gray studio, no bench or text."
+    },
+    {
+      "file": "ai-pushup.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Standard push-up at the bottom position, palms a little wider than shoulders, elbows angled backwards, straight line head to heels, toes on mat, chest just above floor. Side three-quarter view."
+    },
+    {
+      "file": "ai-shoulder.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Standing dumbbell overhead shoulder press, one dumbbell in each hand above shoulders, arms extended overhead, knees straight relaxed, ribs stacked above pelvis. Full body front three-quarter view."
+    },
+    {
+      "file": "ai-overhead.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Standing two-hand single dumbbell overhead triceps extension, upper arms vertical beside head, elbows bent and pointing up, both hands securely holding the same single dumbbell behind head. Side three-quarter view."
+    },
+    {
+      "file": "ai-row.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Single arm dumbbell bent over row with NO bench: staggered stance, left empty hand braced on own left thigh, torso hinged forward with neutral spine, right hand pulling one dumbbell close to right hip, right elbow back. Full body side view."
+    },
+    {
+      "file": "ai-reverse.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Standing bent-over reverse dumbbell fly: hips hinged, torso almost horizontal, knees softly bent, neutral spine, arms spread to sides with slight elbow bend, one small dumbbell in each hand. Three quarter front side view showing entire body."
+    },
+    {
+      "file": "ai-hammer.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Standing dumbbell hammer curl, elbows against torso, forearms midway raised, palms facing each other in neutral grip, one dumbbell in each hand. Full body front three quarter view."
+    },
+    {
+      "file": "ai-goblet.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Dumbbell goblet squat at bottom position, feet flat shoulder width, knees tracking toes, holding one vertical dumbbell with both hands at chest, neutral back. Full body side three quarter view."
+    },
+    {
+      "file": "ai-split.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Static split squat with two dumbbells hanging at sides, BOTH feet on floor, back heel raised, back knee hovering just above floor, front foot flat, upright torso. Side view. No elevated rear foot, no bench."
+    },
+    {
+      "file": "ai-rdl.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Romanian deadlift with two dumbbells, midway lowered near upper shins, hips pushed backward, knees slightly bent, neutral straight spine, dumbbells close to legs, arms straight downward. Full body side view."
+    },
+    {
+      "file": "ai-calf.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Standing double leg calf raise on flat floor, both heels visibly lifted a few centimetres, weight on balls of feet, one dumbbell hanging in each hand. Full body side three quarter view. No step."
+    },
+    {
+      "file": "ai-deadbug.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Dead bug exercise: lying supine on black mat, RIGHT arm extended overhead just above floor and LEFT leg extended straight low above floor, LEFT arm pointing vertically upward and RIGHT hip and knee bent at ninety degrees, lower back against mat. Full body side three quarter view. Exactly two arms and two legs, no weights."
+    },
+    {
+      "file": "ai-closepush.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Close-grip push-up at bottom position, palms slightly narrower than shoulders but NOT touching, elbows tucked beside ribs, body straight head to heels, toes and hands on floor, chest low. Front side three quarter view clearly showing hand spacing."
+    },
+    {
+      "file": "ai-lyingtri.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Dumbbell lying triceps extension on FLOOR: supine on black mat, knees bent feet flat, upper arms vertical above shoulders, elbows flexed ninety degrees so each dumbbell is beside head, neutral wrist grip, one dumbbell each hand. Full body side three quarter view. No bench."
+    },
+    {
+      "file": "ai-lunge.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Reverse lunge with dumbbells, one foot stepped back, rear knee hovering above floor, front foot flat and front knee bent, torso upright, one dumbbell hanging in each hand. Full body side three quarter view. No bench."
+    },
+    {
+      "file": "ai-bridge.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Weighted glute bridge on floor at top position, upper back and head on black mat, knees bent feet flat, pelvis raised aligned with shoulders and knees, one dumbbell lying horizontally across pelvis securely held with both hands. Full body side view. No bench."
+    },
+    {
+      "file": "ai-walkout.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Bodyweight hamstring heel walkout from glute bridge: upper back and head resting on mat, pelvis slightly lifted, BOTH heels on floor far from hips, knees only slightly bent, toes lifted, arms on mat beside torso. Full body side view. No dumbbells. Show long leg bridge mid walkout, not a high bent-knee bridge."
+    },
+    {
+      "file": "ai-singlecalf.jpg",
+      "prompt": "Use case: photorealistic-natural. Asset type: square reference photograph for home exercise app. Adult male athlete in plain charcoal t-shirt, black shorts and trainers on neutral gray studio floor, soft realistic lighting. Single photograph, full body entirely visible with margin. Correct anatomy and realistic equipment. No text, no logo, no collage, no bench. Exercise: Single-leg standing calf raise on floor: left foot on ball of foot with left heel raised, right foot lifted behind, right hand holding one dumbbell at side, left hand lightly touching a wall for balance. Full body side three quarter view showing working heel clearly."
+    }
+  ]
+}

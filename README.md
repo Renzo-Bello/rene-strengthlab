@@ -8,7 +8,7 @@ Registros separados por fecha, semana y día. Elegir una semana no impone avance
 
 El editor modifica series/repeticiones/RIR/video por semana y día. Los enlaces transportan solo los ajustes de pauta, nunca registros. Sin autenticación ni sincronización entre dispositivos. Guardado local.
 
-La guía inicial explica los cinco pasos y se puede reabrir. Fotos IA reutilizadas únicamente para dominadas, vuelos laterales y curl supinado; el resto incluye diagramas musculares e indicaciones específicas sin banco. Los diagramas son esquemáticos, no medidas de activación.
+La guía inicial explica los cinco pasos y se puede reabrir. Todos los ejercicios cuentan con fotos ilustrativas generadas con IA, ampliables y sin recortar el cuerpo. Se añadieron 18 fotos de las variantes domésticas sin banco; se conservaron las tres imágenes existentes. Las sesiones antiguas muestran las fotos actuales por ID sin alterar sus registros. Se mantienen los diagramas musculares y las indicaciones específicas sin banco. Los diagramas son esquemáticos, no medidas de activación.
 
 Base propuesta revisable por el entrenador; no se garantiza un número de dominadas al acabar el mes. No se presupone una lesión ni se reutilizan las notas de otros atletas.
 
